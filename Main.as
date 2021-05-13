@@ -6,7 +6,7 @@
 	public class Main extends Sprite {
 		
 		public function Main () {
-			const NUMBER_OF_TILES:uint = 20;//Неизменное количество тайлов
+			const NUMBER_OF_TILES:uint = 20; //Неизменное количество тайлов
 			const TILES_PER_ROW:uint = 5;//Тайлов в каждом ряду 
 			var tile:tile_movieclip;// Тайл, как ребенок класса tile_movieclip
 			var tiles:Array = new Array ();// Массив, содержащий тайлы

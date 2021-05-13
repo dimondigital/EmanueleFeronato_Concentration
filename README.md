@@ -1,5 +1,5 @@
 # "Concentration"
-ActionScript 3.0 Game-Learning project
+ActionScript 3.0 GameDev-Learning project
 
 status: ver. 0.1 
 ⚠ not works at this moment
